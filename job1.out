@@ -27,3 +27,7 @@ MEGAHIT v1.1.2
 --- [Thu Nov 29 12:44:04 2018] Building graph for k = 79 ---
 --- [Thu Nov 29 12:44:38 2018] Assembling contigs from SdBG for k = 79 ---
 --- [Thu Nov 29 12:45:59 2018] Local assembling k = 79 ---
+--- [Thu Nov 29 12:49:42 2018] Extracting iterative edges from k = 79 to 99 ---
+--- [Thu Nov 29 12:51:09 2018] Building graph for k = 99 ---
+--- [Thu Nov 29 12:51:32 2018] Assembling contigs from SdBG for k = 99 ---
+--- [Thu Nov 29 12:52:19 2018] Local assembling k = 99 ---
