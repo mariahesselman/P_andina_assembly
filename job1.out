@@ -1,0 +1,29 @@
+125.0Gb memory in total.
+Using: 112.829Gb.
+MEGAHIT v1.1.2
+--- [Thu Nov 29 11:56:32 2018] Start assembly. Number of CPU threads 20 ---
+--- [Thu Nov 29 11:56:32 2018] Available memory: 134610432000, used: 121149388800
+--- [Thu Nov 29 11:56:32 2018] Converting reads to binaries ---
+    [read_lib_functions-inl.h  : 209]     Lib 0 (SRR1817238.fastq): se, 44445500 reads, 151 max length
+    [utils.h                   : 126]     Real: 151.9406	user: 61.8656	sys: 6.9997	maxrss: 162020
+--- [Thu Nov 29 11:59:08 2018] k list: 21,29,39,59,79,99,119,141 ---
+--- [Thu Nov 29 11:59:08 2018] Extracting solid (k+1)-mers for k = 21 ---
+--- [Thu Nov 29 12:05:03 2018] Building graph for k = 21 ---
+--- [Thu Nov 29 12:06:08 2018] Assembling contigs from SdBG for k = 21 ---
+--- [Thu Nov 29 12:15:00 2018] Local assembling k = 21 ---
+--- [Thu Nov 29 12:16:24 2018] Extracting iterative edges from k = 21 to 29 ---
+--- [Thu Nov 29 12:19:58 2018] Building graph for k = 29 ---
+--- [Thu Nov 29 12:21:08 2018] Assembling contigs from SdBG for k = 29 ---
+--- [Thu Nov 29 12:24:00 2018] Local assembling k = 29 ---
+--- [Thu Nov 29 12:26:05 2018] Extracting iterative edges from k = 29 to 39 ---
+--- [Thu Nov 29 12:29:05 2018] Building graph for k = 39 ---
+--- [Thu Nov 29 12:29:43 2018] Assembling contigs from SdBG for k = 39 ---
+--- [Thu Nov 29 12:31:38 2018] Local assembling k = 39 ---
+--- [Thu Nov 29 12:33:48 2018] Extracting iterative edges from k = 39 to 59 ---
+--- [Thu Nov 29 12:36:13 2018] Building graph for k = 59 ---
+--- [Thu Nov 29 12:36:53 2018] Assembling contigs from SdBG for k = 59 ---
+--- [Thu Nov 29 12:38:07 2018] Local assembling k = 59 ---
+--- [Thu Nov 29 12:42:26 2018] Extracting iterative edges from k = 59 to 79 ---
+--- [Thu Nov 29 12:44:04 2018] Building graph for k = 79 ---
+--- [Thu Nov 29 12:44:38 2018] Assembling contigs from SdBG for k = 79 ---
+--- [Thu Nov 29 12:45:59 2018] Local assembling k = 79 ---
