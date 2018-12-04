@@ -31,3 +31,13 @@ MEGAHIT v1.1.2
 --- [Thu Nov 29 12:51:09 2018] Building graph for k = 99 ---
 --- [Thu Nov 29 12:51:32 2018] Assembling contigs from SdBG for k = 99 ---
 --- [Thu Nov 29 12:52:19 2018] Local assembling k = 99 ---
+--- [Thu Nov 29 12:56:04 2018] Extracting iterative edges from k = 99 to 119 ---
+--- [Thu Nov 29 12:56:43 2018] Building graph for k = 119 ---
+--- [Thu Nov 29 12:57:00 2018] Assembling contigs from SdBG for k = 119 ---
+--- [Thu Nov 29 12:57:37 2018] Local assembling k = 119 ---
+--- [Thu Nov 29 13:00:56 2018] Extracting iterative edges from k = 119 to 141 ---
+--- [Thu Nov 29 13:01:20 2018] Building graph for k = 141 ---
+--- [Thu Nov 29 13:01:33 2018] Assembling contigs from SdBG for k = 141 ---
+--- [Thu Nov 29 13:02:07 2018] Merging to output final contigs ---
+--- [STAT] 145363 contigs, total 77394830 bp, min 200 bp, max 13821 bp, avg 532 bp, N50 543 bp
+--- [Thu Nov 29 13:02:09 2018] ALL DONE. Time elapsed: 3936.392084 seconds ---
